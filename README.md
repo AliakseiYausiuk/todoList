@@ -7,3 +7,4 @@
 1. TypeScript
 2. React 
 
+[Ссылка на GitHub pages](https://aliakseiyausiuk.github.io/todoList/)
